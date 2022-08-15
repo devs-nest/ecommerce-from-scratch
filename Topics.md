@@ -1,0 +1,8 @@
+- redux / useReducer
+- axios
+- eslint
+- css
+- Firebase auth
+- local storage
+- Destructuring
+- Eventlistener
